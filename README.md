@@ -1,7 +1,22 @@
 # INVENTARIO
 Prueba tecnica
 
-<img width="1342" height="564" alt="image" src="https://github.com/user-attachments/assets/16d57727-76af-4eda-8288-9085d9399072" />
+1. Login
+
+<img width="1305" height="580" alt="image" src="https://github.com/user-attachments/assets/e6530dd9-3d38-442b-8f0f-306f5d229f5b" />
+<img width="1214" height="460" alt="image" src="https://github.com/user-attachments/assets/441f9235-323f-4580-9e67-0b9f930b4017" />
+
+2. respuesta con token JWT
+<img width="1298" height="603" alt="image" src="https://github.com/user-attachments/assets/3b4fdd38-cffb-46ac-becd-28a6f1010aaa" />
+<img width="1092" height="392" alt="image" src="https://github.com/user-attachments/assets/d0372dfc-e905-4cf5-833d-127858269d9c" />
+
+
+3.Listado de productos
+<img width="1298" height="582" alt="image" src="https://github.com/user-attachments/assets/191c7759-9e4c-4eba-b0b3-c0fd0dd423d5" />
+
+
+4. Productos en base de datos POstgresql
+<img width="1334" height="636" alt="image" src="https://github.com/user-attachments/assets/9840d11f-038d-43a1-99fb-affcb73c4379" />
 
 
 
