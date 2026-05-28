@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|solutionrelative:inventario.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|solutionrelative:inventario.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|solutionrelative:inventario.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|solutionrelative:inventario.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\inventario.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\inventario.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F427EF5-F683-A269-3D11-B8145A35079D}|inventario.client\\inventario.client.esproj|solutionrelative:inventario.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|c:\\users\\diego\\source\\repos\\inventario\\inventario.server\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5969CE0E-6F9C-4A26-8334-B0326442641D}|INVENTARIO.Server\\INVENTARIO.Server.csproj|solutionrelative:inventario.server\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:54:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:04:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\appsettings.json",
+              "RelativeToolTip": "INVENTARIO.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T16:08:10.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\appsettings.Development.json",
+              "RelativeToolTip": "INVENTARIO.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T19:21:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "inventario.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "inventario.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T18:10:43.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Program.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Program.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:21:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "inventario.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "inventario.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T18:10:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "inventario.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "inventario.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-28T19:14:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "inventario.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "inventario.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T16:34:02.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\DTOS\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\DTOS\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\DTOS\\LoginRequest.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\DTOS\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:11:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Repositories\\Repository.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:57:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:57:12.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Models\\Usuarios.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:16:55.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\Models\\Productos.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:54:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INVENTARIO.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\INVENTARIO.Server.csproj",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\INVENTARIO.Server.csproj",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\INVENTARIO.Server.csproj",
+              "RelativeToolTip": "INVENTARIO.Server\\INVENTARIO.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T16:47:10.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "inventario.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "inventario.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-28T16:33:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventarioDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\InventarioDBContext.cs",
+              "RelativeDocumentMoniker": "INVENTARIO.Server\\InventarioDBContext.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\InventarioDBContext.cs",
+              "RelativeToolTip": "INVENTARIO.Server\\InventarioDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:28:27.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

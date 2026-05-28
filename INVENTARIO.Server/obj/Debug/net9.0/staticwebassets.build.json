@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "mgJwLSq1LSq2ZfzA/XELo0YLp/ZTHCC/PEeJmlPk5oE=",
+  "Source": "INVENTARIO.Server",
+  "BasePath": "_content/INVENTARIO.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\inventario.client\\inventario.client.esproj",
+      "Version": 2,
+      "Source": "inventario.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

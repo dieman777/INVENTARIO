@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51912",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\diego\\source\\repos\\INVENTARIO\\INVENTARIO.Server\\..\\inventario.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
