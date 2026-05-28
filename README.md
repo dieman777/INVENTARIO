@@ -1,0 +1,2 @@
+# INVENTARIO
+Prueba tecnica
