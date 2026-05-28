@@ -1,6 +1,7 @@
 # INVENTARIO
 Prueba tecnica
 
+<img width="1342" height="564" alt="image" src="https://github.com/user-attachments/assets/16d57727-76af-4eda-8288-9085d9399072" />
 
 
 
